@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "264342919490",
+    "firebase_url": "https://nov22-d3f0d.firebaseio.com",
+    "project_id": "nov22-d3f0d",
+    "storage_bucket": "nov22-d3f0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264342919490:android:b34cfdfc896b94d8",
+        "android_client_info": {
+          "package_name": "com.example.cisco.nov22"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264342919490-f50smk49dbnc6kdef9urvh23702ldq9u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cisco.nov22",
+            "certificate_hash": "5d6df0ae60a85074539d447a3f336d95095cb3cc"
+          }
+        },
+        {
+          "client_id": "264342919490-u5vj6boftviuj5140piurd30h3tbehf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrBS0peMT_wyVKBDAlJ6-6Fwxr89Tsi3U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264342919490-u5vj6boftviuj5140piurd30h3tbehf6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
