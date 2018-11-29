@@ -1,9 +1,6 @@
 package com.example.cisco.nov22;
 
 public class Grade {
-    String fname, lname;
-    Long grade;
-
     public String getFname() {
         return fname;
     }
@@ -12,14 +9,19 @@ public class Grade {
         return lname;
     }
 
+    public Grade(String fname, String lname, Long grade) {
+        this.fname = getFname();
+        this.lname = getLname();
+        this.grade = getGrade();
+    }
+
+    String fname, lname;
+    Long grade;
+
     public Long getGrade() {
         return grade;
     }
 
-    public Grade(String fname, String lname, Long grade) {
-        this.fname = fname;
-        this.lname = lname;
-        this.grade = grade;
-    }
+
 
 }
